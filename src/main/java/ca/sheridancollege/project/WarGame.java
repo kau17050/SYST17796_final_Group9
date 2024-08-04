@@ -10,6 +10,7 @@ import java.util.Collections;
 /**
  * The class representing the War card game. This class extends the Game class
  * and provides specific implementations for playing the War game.
+ * This is the war game which is build on the whole logic of  the game . In it we implement all the important methods.
  * 
  * @author imgur
  */

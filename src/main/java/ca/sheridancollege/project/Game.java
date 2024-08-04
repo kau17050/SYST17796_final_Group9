@@ -4,10 +4,10 @@ import java.util.ArrayList;
 
 /**
  * The class that models a generic game. This class should be extended to create
- * specific games by implementing the abstract methods.
+ * specific games by implementing the abstract methods. It contains some methods which we can use in another class.
  * 
- * @author dancye
- * @author Paul Bonenfant Jan 2020
+ * @author 
+ * @author 
  */
 public abstract class Game {
 

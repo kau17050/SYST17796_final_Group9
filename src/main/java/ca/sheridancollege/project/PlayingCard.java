@@ -48,7 +48,7 @@ public class PlayingCard extends Card {
     /**
      * Provides a string representation of the card in the format "Rank of Suit".
      * 
-     * @return a string representation of the card.
+     * @return this is a override method which contains the information about the string representation.
      */
     @Override
     public String toString() {

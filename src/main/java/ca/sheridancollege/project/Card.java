@@ -4,7 +4,7 @@ package ca.sheridancollege.project;
  * The base class for a card in any card game. This class is abstract and
  * should be extended by specific card types in different games.
  * 
- * @author dancye
+ * @author 
  */
 public abstract class Card {
 

@@ -5,8 +5,7 @@
 package ca.sheridancollege.project;
 
 /**
- * Enum representing the rank of a playing card. The ranks are ordered from TWO
- * to ACE.
+ * This is ENUM class which contains the (two to ace ) cards.
  * 
  * @author imgur
  */
